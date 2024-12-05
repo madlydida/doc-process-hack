@@ -118,7 +118,8 @@ You should see a message such as this:
 ![alt text](image.png)
 
 If no other errors were prompted, this means your function is ready to be triggered. So now, let's add some files to trigger our function. Inside this very folder you will find a folder called `testing-data` that contains 3 files too be added to the specific container inside the Storage Account. Therefore, let's open two tabs:
-- `Storage Account`: where the data is inputed
+- `Storage Account`: w
+here the data is inputed
 - `Cosmos DB`: where the data will be outputed
 
 And now, spend the next few minutes processing the testing data and check how it is loaded into the Cosmos DB.
